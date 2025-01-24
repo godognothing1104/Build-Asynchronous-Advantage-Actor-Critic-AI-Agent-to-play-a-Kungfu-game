@@ -81,6 +81,7 @@ show_video()
 
 This will display the agent's gameplay as a GIF.
 
+![video.gif](video.gif)
 ## Training Process
 
 - **A3C Architecture**: The project implements the A3C reinforcement learning algorithm. It utilizes convolutional neural networks (CNNs) to process the Atari frames and makes predictions for actions based on the actor-critic methodology.
