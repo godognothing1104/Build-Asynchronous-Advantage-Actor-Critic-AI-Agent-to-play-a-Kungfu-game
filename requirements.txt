@@ -1,0 +1,7 @@
+gymnasium==0.26.1
+ale-py==0.8.1
+torch==1.13.0
+opencv-python==4.6.0.66
+numpy==1.23.5
+imageio==2.19.3
+tqdm==4.64.1
